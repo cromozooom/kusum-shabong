@@ -87,15 +87,11 @@ _recaptcha = "6LcWTlwlAAAAAOZcPd0EjYokFxcTzrH3eGoQjbnH"
 
 # SOCIAL ------------------------------
 [[params.social]]
-link = "https://www.facebook.com/alifantro"
+link = "https://www.instagram.com/kusumshabongart"
 [[params.social]]
-link = "https://www.instagram.com/calinalefter/"
+link = "https://www.facebook.com/kusumshabongart"
 [[params.social]]
-link = "https://www.pinterest.it/calinalefter/"
-[[params.social]]
-link = "https://twitter.com/moondiary"
-[[params.social]]
-link = "https://calinalefter.tumblr.com/"
+link = "https://www.youtube.com/channel/UCN-kOOm6OX88B9nNCyiwkaA"
 
 # [outputs]
 # #gallery = ["html", "json"]
